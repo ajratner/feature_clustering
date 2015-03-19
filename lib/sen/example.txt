@@ -1,0 +1,10 @@
+SEQ_WIN_LEMMA_L_1_R_3_%|%.%|%to@|@they@|@home
+SEQ_INV_NGRAM_3_%|%a@|@set@|@of
+DEP_INV_KW_%|%nn%|%prep_to@|@send@|@conj_but@|@leave@|@prep_in
+SEQ_LEMMA_%|%with@|@she@|@ex-husband@|@-lrb-@|@marry@|@at@|@the@|@time@|@-rrb-@|@Bruce@|@Willis@|@-lrb-@|@Bush@|@family@|@fan@|@,@|@USO@|@entertainer@|@-rrb-@|@and@|@the@|@aforementioned
+SEQ_WIN_LEMMA_L_2_R_2_%|%canadian@|@chanteuse%|%Marta@|@Topferova
+SEQ_NER_%|%O@|@ORGANIZATION@|@ORGANIZATION@|@O@|@O@|@ORGANIZATION@|@O@|@O@|@O@|@O@|@O@|@O@|@O@|@O
+SEQ_POS_%|%VBD@|@IN@|@NNP@|@IN@|@DT@|@JJ@|@NNS@|@CC@|@VBD@|@TO@|@VB@|@DT@|@NN@|@,@|@VBG
+SEQ_INV_WIN_LEMMA_L_3_R_1_%|%who@|@play@|@Dr.%|%'s
+SEQ_INV_WIN_LEMMA_L_2_R_1_%|%``@|@for%|%.
+SEQ_NER_%|%O@|@TITLE@|@O@|@O@|@O@|@O@|@O@|@ORGANIZATION@|@ORGANIZATION@|@ORGANIZATION@|@ORGANIZATION@|@ORGANIZATION@|@ORGANIZATION@|@ORGANIZATION@|@ORGANIZATION@|@O@|@O@|@PERSON@|@O@|@O@|@O@|@O@|@DURATION@|@DURATION@|@O@|@O@|@O@|@O@|@O@|@DATE@|@DATE@|@O@|@O

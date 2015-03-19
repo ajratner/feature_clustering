@@ -1,0 +1,4 @@
+run cluster:
+
+   pypy cluster.py input_feature output_mapping
+
